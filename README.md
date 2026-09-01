@@ -88,6 +88,9 @@ The report contains four analytical pages, each focused on a different business 
 
 The Executive Overview provides a high-level snapshot of the Amazon product catalog.
 
+<img width="1898" height="947" alt="Executive Overview" src="https://github.com/user-attachments/assets/de49c1ec-2387-4f1c-8689-3a6cc9145e89" />
+
+
 Key KPIs
 
 Total Products
@@ -123,6 +126,8 @@ This page is intended for users who need a quick understanding of overall catalo
 2. Pricing & Discount Strategy
 
 The Executive Overview provides a high-level snapshot of overall catalog performance, allowing users to quickly identify key trends and insights before drilling down into pricing, categories, discounts, and customer reviews.
+<img width="1912" height="971" alt="Pricing   Discont Strategy" src="https://github.com/user-attachments/assets/d8fcd38c-85a4-4d1b-ad6a-548eb8ddb8a2" />
+
 
 Analysis Included
 
@@ -159,6 +164,8 @@ The page can support pricing and promotional decisions by helping identify patte
 3. Product & Category Analysis
 
 This page provides a more detailed view of the product catalog.
+<img width="1913" height="990" alt="Product   Category Analysis" src="https://github.com/user-attachments/assets/e89dff0e-f320-4ec4-8cb2-8f52b8c9c257" />
+
 
 Analysis Included
 
@@ -189,6 +196,8 @@ This view is useful for category managers, analysts and decision-makers who need
 4. Customer Review Analysis
 
 The Customer Review page focuses on customer engagement and product feedback.
+<img width="1917" height="988" alt="Customer Review" src="https://github.com/user-attachments/assets/4fb3e3b3-20d1-49ad-9770-82f38274a258" />
+
 
 Analysis Included
 
